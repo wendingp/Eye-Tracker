@@ -1,3 +1,5 @@
+"""The original model in the paper "Eye Tracking for Everyone"
+"""
 import os
 import argparse
 import timeit
